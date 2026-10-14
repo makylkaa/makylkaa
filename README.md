@@ -2,20 +2,20 @@
 
 разработчик веб  и мультимедийных приложений, сейчас учусь на разработчика ПО
 
-мой технологический стек:
+Vой технологический стек:
 - HTML
 - CSS
 - JavaScript
-Python
-PHP
-Figma
-Adobe Photoshop
-Inkscape
-Blender
-Krita
-Ramus
-Draw.io
-C++
+- Python
+- PHP
+- Figma
+- Adobe Photoshop
+- Inkscape
+- Blender
+- Krita
+- Ramus
+- Draw.io
+- C++
 <!--
 **makylkaa/makylkaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
