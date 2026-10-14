@@ -8,6 +8,7 @@
 - JavaScript
 - Python
 - PHP
+- GitHub
 - Figma
 - Adobe Photoshop
 - Inkscape
